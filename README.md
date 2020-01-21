@@ -1,0 +1,3 @@
+# Rebel Market Image Analysis
+
+Program written in Python that performs an image analysis from a dataset consisting of 200 JPEG formatted images captured from the Rebel Market Cafeteria, Ole Miss. The program removes corrupted images from the data set and calculates an average image and a standard deviation image with areas of change highlighted in "red" if those areas meets the given threshold standard deviation.
